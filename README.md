@@ -7,7 +7,8 @@
 <img src="badgelink"/>
 </a>
 
-<img src="/github/directory-file-count/:user/:repo"
+<img src="https://img.shields.io/github/repo-size/Feesh09/DadJokes">
+<img src="https://img.shields.io/github/directory-file-count/Feesh09/DadJokes">
 
 
 <img src="https://forthebadge.com/images/badges/made-with-crayons.svg"/>&nbsp;
